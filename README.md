@@ -35,7 +35,7 @@ Results are displayed through an interactive **Streamlit** web interface.
 ```
 ├── app.py                 # Streamlit application
 ├── best.pt                # Trained YOLO model weights
-├── NTI_PRO.ipynb          # Model training & experiments 
+├── project_car       # Model training & experiments 
 └── README.md              # Project documentation
 ```
 ---
